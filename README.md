@@ -18,3 +18,4 @@
 |67|二进制求和|[javascript](https://github.com/DUSIKAI/LeetCode/commit/ba1b86291a6cf1a2d24f137aa1fe143980d2005d)| 
 |69|x 的平方根|[javascript](https://github.com/DUSIKAI/LeetCode/commit/3554a089446d1e1329710accb3eaf469bb2d74a5)| 
 |70|爬楼梯|[javascript](https://github.com/DUSIKAI/LeetCode/commit/7d3b8b78abc2bc56106dd9ec1280037e93ff6e3c)| 
+|83|删除排序链表中的重复元素|[javascript](https://github.com/DUSIKAI/LeetCode/commit/0207a6b2d4bf86575ef7c361b5242f624422a0f3)| 
