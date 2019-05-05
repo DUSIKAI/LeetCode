@@ -1,6 +1,11 @@
 | # | 题目        | 解答   |    
 |---| --------    | -----  |
-|1|两数之和|[javascript](https://github.com/DUSIKAI/LeetCode/blob/master/LeetCode/TwoSum.js)| 
+|1|两数之和|[javascript](https://github.com/DUSIKAI/LeetCode/blob/master/LeetCode/TwoSum.js)|
+|2|两数相加|[javascript](https://github.com/DUSIKAI/LeetCode/blob/master/LeetCode/Add%20Two%20Numbers.js)|
+|3|无重复字符的最长子串|[javascript](https://github.com/DUSIKAI/LeetCode/blob/master/LeetCode/Longest%20Substring%20Without%20Repeating%20Characters.js)|
+|4|寻找两个有序数组的中位数|[javascript](https://github.com/DUSIKAI/LeetCode/commit/2440b01b9ecf28c8b81d80e89971da786253078c)|
+|5|最长回文子串|[javascript](https://github.com/DUSIKAI/LeetCode/blob/master/LeetCode/Longest%20Palindromic%20Substring.js)|
+|6|两数之和|[javascript](https://github.com/DUSIKAI/LeetCode/blob/master/LeetCode/ZigZag%20Conversion.js)| 
 |7|整数反转|[javascript](https://github.com/DUSIKAI/LeetCode/blob/master/LeetCode/Reverse%20Integer.js)| 
 |9|回文数|[javascript](https://github.com/DUSIKAI/LeetCode/blob/master/LeetCode/Palindrome%20Number.js)| 
 |13|罗马数字转整数|[javascript](https://github.com/DUSIKAI/LeetCode/blob/master/LeetCode/Roman%20to%20Integer.js)|
