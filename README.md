@@ -7,7 +7,9 @@
 |5|最长回文子串|[javascript](https://github.com/DUSIKAI/LeetCode/blob/master/LeetCode/Longest%20Palindromic%20Substring.js)|
 |6|两数之和|[javascript](https://github.com/DUSIKAI/LeetCode/blob/master/LeetCode/ZigZag%20Conversion.js)| 
 |7|整数反转|[javascript](https://github.com/DUSIKAI/LeetCode/blob/master/LeetCode/Reverse%20Integer.js)| 
-|9|回文数|[javascript](https://github.com/DUSIKAI/LeetCode/blob/master/LeetCode/Palindrome%20Number.js)| 
+|8|字符串转换整数|[javascript](https://github.com/DUSIKAI/LeetCode/blob/master/LeetCode/String%20to%20Integer%20(atoi).js)| 
+|9|回文数|[javascript](https://github.com/DUSIKAI/LeetCode/blob/master/LeetCode/Palindrome%20Number.js)|
+|10|整数反转|[javascript](https://github.com/DUSIKAI/LeetCode/blob/master/LeetCode/Reverse%20Integer.js)| 
 |13|罗马数字转整数|[javascript](https://github.com/DUSIKAI/LeetCode/blob/master/LeetCode/Roman%20to%20Integer.js)|
 |14|最长公共前缀|[javascript](https://github.com/DUSIKAI/LeetCode/blob/master/LeetCode/Longest%20Common%20Prefix.js)| 
 |20|有效的括号|[javascript](https://github.com/DUSIKAI/LeetCode/blob/master/LeetCode/Valid%20Parentheses.js)| 
