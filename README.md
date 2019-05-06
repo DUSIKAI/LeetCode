@@ -10,8 +10,15 @@
 |8|字符串转换整数|[javascript](https://github.com/DUSIKAI/LeetCode/blob/master/LeetCode/String%20to%20Integer%20(atoi).js)| 
 |9|回文数|[javascript](https://github.com/DUSIKAI/LeetCode/blob/master/LeetCode/Palindrome%20Number.js)|
 |10|整数反转|[javascript](https://github.com/DUSIKAI/LeetCode/blob/master/LeetCode/Reverse%20Integer.js)| 
+|11|盛最多水的容器|[javascript](https://github.com/DUSIKAI/LeetCode/commit/aeadb0a665591d5b36d374bfc72dc71ced96a3a9)| 
+|12|整数转罗马数字|[javascript](https://github.com/DUSIKAI/LeetCode/commit/62f1c0480cd9316c9d74b79af167800014e7f5a4)| 
 |13|罗马数字转整数|[javascript](https://github.com/DUSIKAI/LeetCode/blob/master/LeetCode/Roman%20to%20Integer.js)|
-|14|最长公共前缀|[javascript](https://github.com/DUSIKAI/LeetCode/blob/master/LeetCode/Longest%20Common%20Prefix.js)| 
+|14|最长公共前缀|[javascript](https://github.com/DUSIKAI/LeetCode/blob/master/LeetCode/Longest%20Common%20Prefix.js)|
+|15|三数之和|[javascript](https://github.com/DUSIKAI/LeetCode/commit/b6ae46133b73e6f7f052fb87ea1c308764b078a7)| 
+|16|最接近的三数之和|[javascript](https://github.com/DUSIKAI/LeetCode/commit/731e1378f8285a9fdccb2390e24f46f49c813310)| 
+|17|电话号码的字母组合|[javascript](https://github.com/DUSIKAI/LeetCode/commit/a9c4f3ead5cbd2b713994976e465a578de0a88ca)|
+|18|四数之和|[javascript](https://github.com/DUSIKAI/LeetCode/commit/e1092588267949f5ea73f09b107d905b99d93049)| 
+|19|删除链表的倒数第N个节点|[javascript](https://github.com/DUSIKAI/LeetCode/commit/5f9ee12d8c979581289fe1f0481b158a24b6c050)| 
 |20|有效的括号|[javascript](https://github.com/DUSIKAI/LeetCode/blob/master/LeetCode/Valid%20Parentheses.js)| 
 |21|合并两个有序链表|[javascript](https://github.com/DUSIKAI/LeetCode/blob/master/LeetCode/Merge%20Two%20Sorted%20Lists.js)| 
 |26|删除排序数组中的重复项|[javascript](https://github.com/DUSIKAI/LeetCode/blob/master/LeetCode/Remove%20Duplicates%20from%20Sorted%20Array.js)| 
