@@ -22,7 +22,7 @@
 |20|有效的括号|[javascript](https://github.com/DUSIKAI/LeetCode/blob/master/LeetCode/Valid%20Parentheses.js)| 
 |21|合并两个有序链表|[javascript](https://github.com/DUSIKAI/LeetCode/blob/master/LeetCode/Merge%20Two%20Sorted%20Lists.js)| 
 |26|删除排序数组中的重复项|[javascript](https://github.com/DUSIKAI/LeetCode/blob/master/LeetCode/Remove%20Duplicates%20from%20Sorted%20Array.js)| 
-|27|移除元素|[javascript](https://github.com/DUSIKAI/LeetCode/commit/c8194e7b5ff5a4e5263cc7d9144f010a5577d640)| 
+|27|移除元素|[javascript](https://github.com/DUSIKAI/LeetCode/commit/87776d208ed3182d32ab6470e805cb72ba3c2bb5)| 
 |28|实现strStr()|[javascript](https://github.com/DUSIKAI/LeetCode/commit/3acdac38cc02917ea811f39e67ac95f056ee70c2)| 
 |35|搜索插入位置|[javascript](https://github.com/DUSIKAI/LeetCode/commit/867089801f0db60343f36ca616f8e41efe6e54e9)| 
 |38|报数|[javascript](https://github.com/DUSIKAI/LeetCode/commit/a5136ba31db02667e6de53c2a0f8b982c1f261bf)| 
