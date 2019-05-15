@@ -21,9 +21,15 @@
 |19|删除链表的倒数第N个节点|[javascript](https://github.com/DUSIKAI/LeetCode/commit/5f9ee12d8c979581289fe1f0481b158a24b6c050)| 
 |20|有效的括号|[javascript](https://github.com/DUSIKAI/LeetCode/blob/master/LeetCode/Valid%20Parentheses.js)| 
 |21|合并两个有序链表|[javascript](https://github.com/DUSIKAI/LeetCode/blob/master/LeetCode/Merge%20Two%20Sorted%20Lists.js)| 
+|22|括号生成|[javascript](https://github.com/DUSIKAI/LeetCode/commit/b5a9d1a9e813961997a6ea1ddefe9b63129b85ec)|
+|23|合并K个排序链表|[javascript](https://github.com/DUSIKAI/LeetCode/commit/c25df5df55da4235e6a86e0545e567ebcbd37c51)|
+|24|两两交换链表中的节点|[javascript](https://github.com/DUSIKAI/LeetCode/commit/9aefedbbd311f88c07242e4b0a2432fceda2d6e9)|
+|25|k个一组翻转链表|[javascript](https://github.com/DUSIKAI/LeetCode/commit/f2d4f0870c3f93aef663bf404ada98a70f1f62d5)|
 |26|删除排序数组中的重复项|[javascript](https://github.com/DUSIKAI/LeetCode/blob/master/LeetCode/Remove%20Duplicates%20from%20Sorted%20Array.js)| 
 |27|移除元素|[javascript](https://github.com/DUSIKAI/LeetCode/commit/87776d208ed3182d32ab6470e805cb72ba3c2bb5)| 
-|28|实现strStr()|[javascript](https://github.com/DUSIKAI/LeetCode/commit/3acdac38cc02917ea811f39e67ac95f056ee70c2)| 
+|28|实现strStr()|[javascript](https://github.com/DUSIKAI/LeetCode/commit/3acdac38cc02917ea811f39e67ac95f056ee70c2)|
+|29|两数相除|[javascript](https://github.com/DUSIKAI/LeetCode/commit/d77b3bc3be08dd97dbb0ba89f6258809b3cb5170)| 
+|30|串联所有单词的子串|[javascript](https://github.com/DUSIKAI/LeetCode/commit/65d017ee3ccb43e6b4b66ebdd49cd90354c8732a)|
 |35|搜索插入位置|[javascript](https://github.com/DUSIKAI/LeetCode/commit/867089801f0db60343f36ca616f8e41efe6e54e9)| 
 |38|报数|[javascript](https://github.com/DUSIKAI/LeetCode/commit/a5136ba31db02667e6de53c2a0f8b982c1f261bf)| 
 |53|最大子序和|[javascript](https://github.com/DUSIKAI/LeetCode/commit/ca7acba011b4f322d6f1c0cb3963cafdb3af1046)| 
