@@ -40,6 +40,16 @@
 |38|报数|[javascript](https://github.com/DUSIKAI/LeetCode/commit/a5136ba31db02667e6de53c2a0f8b982c1f261bf)|
 |39|组合总和|[javascript](https://github.com/DUSIKAI/LeetCode/commit/bb3db0d8fa63452c2fc45c852a2f3beced6dd8df)|
 |40|组合总和 II|[javascript](https://github.com/DUSIKAI/LeetCode/commit/a2ec581af1ec11a05b69efc3d11daed0f07c605e)|
+|41|缺失的第一个正数|[javascript](https://github.com/DUSIKAI/LeetCode/commit/fa9b3290a1b79f9184ef55bb44b4b84f408c325f)|
+|42|接雨水|[javascript](https://github.com/DUSIKAI/LeetCode/commit/ed4445d55cba7147b9d69edd90b77a51db6a5b01)|
+|43|字符串相乘|[javascript](https://github.com/DUSIKAI/LeetCode/commit/3a5408303acc4cf9f4b51c948783b8d6f28be833)|
+|44|通配符匹配|[javascript](https://github.com/DUSIKAI/LeetCode/commit/ee4b3e2a016dabf84a422b6c5ca0df8382f54106)|
+|45|跳跃游戏 II|[javascript](https://github.com/DUSIKAI/LeetCode/commit/29bcdc7cf60da8049cfed5a87cc13a11ed5d12da)|
+|46|全排列|[javascript](https://github.com/DUSIKAI/LeetCode/commit/fb1c3610d145fe1a287aceed03b6900c7e7db660)|
+|47|全排列 II|[javascript](https://github.com/DUSIKAI/LeetCode/commit/60e3ef2ff21458f98d90b64e4e1854cad6752a5c)|
+|48|旋转图像|[javascript](https://github.com/DUSIKAI/LeetCode/commit/c139ab645abb1462d03fdf3a30d52afa3670b9b6)|
+|49|字母异位词分组|[javascript](https://github.com/DUSIKAI/LeetCode/commit/bd47742db45a5fa2f8aef0d27b3620d620e4c9cb)|
+|50|Pow(x, n)|[javascript](https://github.com/DUSIKAI/LeetCode/commit/965ed97da1ab0616718d2301a87cad0a5a5cbeba)|
 |53|最大子序和|[javascript](https://github.com/DUSIKAI/LeetCode/commit/ca7acba011b4f322d6f1c0cb3963cafdb3af1046)| 
 |58|最后一个单词的长度|[javascript](https://github.com/DUSIKAI/LeetCode/commit/a982b9a7ec7db95b9d7948fbfa2f3c00c364826c)| 
 |66|加一|[javascript](https://github.com/DUSIKAI/LeetCode/commit/f194e1c514f7d7f230de3d4c65af76a10ae4f7a1)| 
