@@ -30,8 +30,16 @@
 |28|实现strStr()|[javascript](https://github.com/DUSIKAI/LeetCode/commit/3acdac38cc02917ea811f39e67ac95f056ee70c2)|
 |29|两数相除|[javascript](https://github.com/DUSIKAI/LeetCode/commit/d77b3bc3be08dd97dbb0ba89f6258809b3cb5170)| 
 |30|串联所有单词的子串|[javascript](https://github.com/DUSIKAI/LeetCode/commit/65d017ee3ccb43e6b4b66ebdd49cd90354c8732a)|
-|35|搜索插入位置|[javascript](https://github.com/DUSIKAI/LeetCode/commit/867089801f0db60343f36ca616f8e41efe6e54e9)| 
-|38|报数|[javascript](https://github.com/DUSIKAI/LeetCode/commit/a5136ba31db02667e6de53c2a0f8b982c1f261bf)| 
+|31|下一个排列|[javascript](https://github.com/DUSIKAI/LeetCode/commit/678fdf253ab331ed1b36c7281b956fe82a248fa4)|
+|32|最长有效括号|[javascript](https://github.com/DUSIKAI/LeetCode/commit/03fde5710b38c764d86fa7d9cfd365d40943338c)|
+|33|搜索旋转排序数组|[javascript](https://github.com/DUSIKAI/LeetCode/commit/dbfc82fd0ff85dd9a2519212462222905eef9319)|
+|34|在排序数组中查找元素的第一个和最后一个位置|[javascript](https://github.com/DUSIKAI/LeetCode/commit/89d0f41c957906301eff6308a12c73b6362b5a67)|
+|35|搜索插入位置|[javascript](https://github.com/DUSIKAI/LeetCode/commit/867089801f0db60343f36ca616f8e41efe6e54e9)|
+|36|有效的数独|[javascript](https://github.com/DUSIKAI/LeetCode/commit/a042769acbc20c31600d08737898c72a0144320a)|
+|37|解数独|[javascript](https://github.com/DUSIKAI/LeetCode/commit/80c794f417a2e970e84fe4850e1b38b3ef8d95c4)|
+|38|报数|[javascript](https://github.com/DUSIKAI/LeetCode/commit/a5136ba31db02667e6de53c2a0f8b982c1f261bf)|
+|39|组合总和|[javascript](https://github.com/DUSIKAI/LeetCode/commit/bb3db0d8fa63452c2fc45c852a2f3beced6dd8df)|
+|40|组合总和 II|[javascript](https://github.com/DUSIKAI/LeetCode/commit/a2ec581af1ec11a05b69efc3d11daed0f07c605e)|
 |53|最大子序和|[javascript](https://github.com/DUSIKAI/LeetCode/commit/ca7acba011b4f322d6f1c0cb3963cafdb3af1046)| 
 |58|最后一个单词的长度|[javascript](https://github.com/DUSIKAI/LeetCode/commit/a982b9a7ec7db95b9d7948fbfa2f3c00c364826c)| 
 |66|加一|[javascript](https://github.com/DUSIKAI/LeetCode/commit/f194e1c514f7d7f230de3d4c65af76a10ae4f7a1)| 
