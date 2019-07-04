@@ -42,5 +42,5 @@ var merge = function(intervals) {
     
     return result;
 }
-
+ 
 */
