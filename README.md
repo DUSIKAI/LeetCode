@@ -51,7 +51,13 @@
 |49|字母异位词分组|[javascript](https://github.com/DUSIKAI/LeetCode/commit/bd47742db45a5fa2f8aef0d27b3620d620e4c9cb)|
 |50|Pow(x, n)|[javascript](https://github.com/DUSIKAI/LeetCode/commit/965ed97da1ab0616718d2301a87cad0a5a5cbeba)|
 |53|最大子序和|[javascript](https://github.com/DUSIKAI/LeetCode/commit/ca7acba011b4f322d6f1c0cb3963cafdb3af1046)| 
-|58|最后一个单词的长度|[javascript](https://github.com/DUSIKAI/LeetCode/commit/a982b9a7ec7db95b9d7948fbfa2f3c00c364826c)| 
+|54|螺旋矩阵|[javascript](https://github.com/DUSIKAI/LeetCode/commit/de313955516a5c9b96e4860d19b40f90a9740cdf)| 
+|55|跳跃游戏|[javascript](https://github.com/DUSIKAI/LeetCode/commit/e86d0204d4c4af9d85a9211e1ba34bbef2d5192c)| 
+|56|合并区间|[javascript](https://github.com/DUSIKAI/LeetCode/commit/3f7e4f049935b04305e12bf697f60703d0e5b332)| 
+|57|插入区间|[javascript](https://github.com/DUSIKAI/LeetCode/commit/5963e26fa0e2d2322105e8d437cfd4be26a71df3)| 
+|58|最后一个单词的长度|[javascript](https://github.com/DUSIKAI/LeetCode/commit/a982b9a7ec7db95b9d7948fbfa2f3c00c364826c)|
+|59|螺旋矩阵 II|[javascript](https://github.com/DUSIKAI/LeetCode/commit/4894809ba2e19d2ebd4f0f9f4f73d2f10dde3136)| 
+|60|第k个排列|[javascript](https://github.com/DUSIKAI/LeetCode/commit/0e8cfb113eb369b9cd3701c0492b7385f204245f)| 
 |66|加一|[javascript](https://github.com/DUSIKAI/LeetCode/commit/f194e1c514f7d7f230de3d4c65af76a10ae4f7a1)| 
 |67|二进制求和|[javascript](https://github.com/DUSIKAI/LeetCode/commit/ba1b86291a6cf1a2d24f137aa1fe143980d2005d)| 
 |69|x 的平方根|[javascript](https://github.com/DUSIKAI/LeetCode/commit/3554a089446d1e1329710accb3eaf469bb2d74a5)| 
