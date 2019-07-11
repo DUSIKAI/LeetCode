@@ -57,8 +57,11 @@
 |57|插入区间|[javascript](https://github.com/DUSIKAI/LeetCode/commit/5963e26fa0e2d2322105e8d437cfd4be26a71df3)| 
 |58|最后一个单词的长度|[javascript](https://github.com/DUSIKAI/LeetCode/commit/a982b9a7ec7db95b9d7948fbfa2f3c00c364826c)|
 |59|螺旋矩阵 II|[javascript](https://github.com/DUSIKAI/LeetCode/commit/4894809ba2e19d2ebd4f0f9f4f73d2f10dde3136)| 
-|60|第k个排列|[javascript](https://github.com/DUSIKAI/LeetCode/commit/0e8cfb113eb369b9cd3701c0492b7385f204245f)| 
-|66|加一|[javascript](https://github.com/DUSIKAI/LeetCode/commit/f194e1c514f7d7f230de3d4c65af76a10ae4f7a1)| 
+|60|第k个排列|[javascript](https://github.com/DUSIKAI/LeetCode/commit/0e8cfb113eb369b9cd3701c0492b7385f204245f)|
+|61|旋转链表|[javascript](https://github.com/DUSIKAI/LeetCode/commit/60a61c4eeb1442ff905875941ba9521bc34c146c)| 
+|62|不同路径|[javascript](https://github.com/DUSIKAI/LeetCode/commit/ecb14f8270add1aa3b5ed15147ab6505a81297b9)| 
+|63|不同路径 II|[javascript](https://github.com/DUSIKAI/LeetCode/commit/3bb2e443629319828082e39234f1e782695f0a7d)| 
+|64|最小路径和|[javascript](https://github.com/DUSIKAI/LeetCode/commit/ec60009c0aab5849b241c9b9d3b6d29e3ed3ca13)| 
 |67|二进制求和|[javascript](https://github.com/DUSIKAI/LeetCode/commit/ba1b86291a6cf1a2d24f137aa1fe143980d2005d)| 
 |69|x 的平方根|[javascript](https://github.com/DUSIKAI/LeetCode/commit/3554a089446d1e1329710accb3eaf469bb2d74a5)| 
 |70|爬楼梯|[javascript](https://github.com/DUSIKAI/LeetCode/commit/7d3b8b78abc2bc56106dd9ec1280037e93ff6e3c)| 
