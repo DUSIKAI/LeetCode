@@ -65,4 +65,13 @@
 |67|二进制求和|[javascript](https://github.com/DUSIKAI/LeetCode/commit/ba1b86291a6cf1a2d24f137aa1fe143980d2005d)| 
 |69|x 的平方根|[javascript](https://github.com/DUSIKAI/LeetCode/commit/3554a089446d1e1329710accb3eaf469bb2d74a5)| 
 |70|爬楼梯|[javascript](https://github.com/DUSIKAI/LeetCode/commit/7d3b8b78abc2bc56106dd9ec1280037e93ff6e3c)| 
+|71|简化路径|[javascript](https://github.com/DUSIKAI/LeetCode/commit/98b6db803d686483ee917200988478afa8ebfe55)| 
+|72|编辑距离|[javascript](https://github.com/DUSIKAI/LeetCode/commit/163af0ce844463406c082976c3cce23c9bc276fd)| 
+|73|矩阵置零|[javascript](https://github.com/DUSIKAI/LeetCode/commit/677b7dbf9c151e18412d0d07f7a180e07f14c8f8)| 
+|74|搜索二维矩阵|[javascript](https://github.com/DUSIKAI/LeetCode/commit/b08340a26a71edd3716441c0c42abb7e47a06860)| 
+|75|颜色分类|[javascript](https://github.com/DUSIKAI/LeetCode/commit/9784ceb65cecb6ed1a542c0d558be3539c1e3278)| 
+|77|组合|[javascript](https://github.com/DUSIKAI/LeetCode/commit/1361e3203c95a57e419f1383dd9351197779f49a)| 
+|78|子集|[javascript](https://github.com/DUSIKAI/LeetCode/commit/dfb072bf25d48d16249b38fc528059dd99bcec5c)| 
+|79|单词搜索|[javascript](https://github.com/DUSIKAI/LeetCode/commit/43f7e1b5daf14f9cc08d55ff5ce5ca0200a6fff9)| 
+|80|删除排序数组中的重复项 II|[javascript](https://github.com/DUSIKAI/LeetCode/commit/cb838648ed928d259ebb08711f2b564fa2006a3f)| 
 |83|删除排序链表中的重复元素|[javascript](https://github.com/DUSIKAI/LeetCode/commit/0207a6b2d4bf86575ef7c361b5242f624422a0f3)| 
