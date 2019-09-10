@@ -82,3 +82,11 @@
 |88|合并两个有序数组|[javascript](https://github.com/DUSIKAI/LeetCode/commit/e6498ba88af83b2be6dd7d215d3bc13b2f2018ec)| 
 |89|格雷编码|[javascript](https://github.com/DUSIKAI/LeetCode/commit/e97d07cb95cf4235848e3ce1b909aab206a6c447)| 
 |90|子集 II|[javascript](https://github.com/DUSIKAI/LeetCode/commit/a530a5d0c457ea277936615207b75baae4f3fb42)| 
+|91|解码方法|[javascript](https://github.com/DUSIKAI/LeetCode/commit/fc9f5051ebfc7bf45c3241c8a069e55fef6df6cd)| 
+|92|反转链表 II|[javascript](https://github.com/DUSIKAI/LeetCode/commit/f6efc6887e007233c2a29c6a1ce86905a33e890a)| 
+|93|复原IP地址|[javascript](https://github.com/DUSIKAI/LeetCode/commit/bd7afea60c102cfa3a14a55fc78fd53da1de0629)| 
+|94|二叉树的中序遍历|[javascript](https://github.com/DUSIKAI/LeetCode/commit/681cb4812a74b9002030fc8b8c93f552db6d92c1)| 
+|95|不同的二叉搜索树 II|[javascript](https://github.com/DUSIKAI/LeetCode/commit/19abd561c412aca2652cafcfd00e030d9df29542)| 
+|96|不同的二叉搜索树|[javascript](https://github.com/DUSIKAI/LeetCode/commit/4f86fc7a54115d6d8d55cae0dba6b6f21cb9e281)| 
+|98|验证二叉搜索树|[javascript](https://github.com/DUSIKAI/LeetCode/commit/cdf6505c394ccd970e7433b00f662b5c03469565)| 
+|100|相同的树|[javascript](https://github.com/DUSIKAI/LeetCode/commit/0964e9389337c7adb2c06b488e8d38dd6dba7698)| 
