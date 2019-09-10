@@ -73,5 +73,12 @@
 |77|组合|[javascript](https://github.com/DUSIKAI/LeetCode/commit/1361e3203c95a57e419f1383dd9351197779f49a)| 
 |78|子集|[javascript](https://github.com/DUSIKAI/LeetCode/commit/dfb072bf25d48d16249b38fc528059dd99bcec5c)| 
 |79|单词搜索|[javascript](https://github.com/DUSIKAI/LeetCode/commit/43f7e1b5daf14f9cc08d55ff5ce5ca0200a6fff9)| 
-|80|删除排序数组中的重复项 II|[javascript](https://github.com/DUSIKAI/LeetCode/commit/cb838648ed928d259ebb08711f2b564fa2006a3f)| 
-|83|删除排序链表中的重复元素|[javascript](https://github.com/DUSIKAI/LeetCode/commit/0207a6b2d4bf86575ef7c361b5242f624422a0f3)| 
+|80|删除排序数组中的重复项 II|[javascript](https://github.com/DUSIKAI/LeetCode/commit/cb838648ed928d259ebb08711f2b564fa2006a3f)|
+|81|搜索旋转排序数组 II|[javascript](https://github.com/DUSIKAI/LeetCode/commit/c5dd2355d20cd8a0bad3a63cb2b96538a9e41073)| 
+|82|删除排序链表中的重复元素 II|[javascript](https://github.com/DUSIKAI/LeetCode/commit/9175974fbb520dd43145a58581b87bc148502567)| 
+|83|删除排序链表中的重复元素|[javascript](https://github.com/DUSIKAI/LeetCode/commit/0207a6b2d4bf86575ef7c361b5242f624422a0f3)|
+|84|柱状图中最大的矩形|[javascript](https://github.com/DUSIKAI/LeetCode/commit/e643d970200aa5337dc13a7e9560f242d86a0f62)|
+|86|分隔链表|[javascript](https://github.com/DUSIKAI/LeetCode/commit/1dbdc7f3f8b8d14f402df2a14316a74201580e15)| 
+|88|合并两个有序数组|[javascript](https://github.com/DUSIKAI/LeetCode/commit/e6498ba88af83b2be6dd7d215d3bc13b2f2018ec)| 
+|89|格雷编码|[javascript](https://github.com/DUSIKAI/LeetCode/commit/e97d07cb95cf4235848e3ce1b909aab206a6c447)| 
+|90|子集 II|[javascript](https://github.com/DUSIKAI/LeetCode/commit/a530a5d0c457ea277936615207b75baae4f3fb42)| 
