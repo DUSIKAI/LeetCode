@@ -90,3 +90,6 @@
 |96|不同的二叉搜索树|[javascript](https://github.com/DUSIKAI/LeetCode/commit/4f86fc7a54115d6d8d55cae0dba6b6f21cb9e281)| 
 |98|验证二叉搜索树|[javascript](https://github.com/DUSIKAI/LeetCode/commit/cdf6505c394ccd970e7433b00f662b5c03469565)| 
 |100|相同的树|[javascript](https://github.com/DUSIKAI/LeetCode/commit/0964e9389337c7adb2c06b488e8d38dd6dba7698)| 
+|101|对称二叉树|[javascript](https://github.com/DUSIKAI/LeetCode/commit/e8243ddb0b23ed55f895d9c99dc6a781bc45d5de)| 
+|102|二叉树的层次遍历|[javascript](https://github.com/DUSIKAI/LeetCode/commit/f602026d24877c6c273c4f0cc3f5ddd260271c7c)| 
+|103|二叉树的锯齿形层次遍历|[javascript](https://github.com/DUSIKAI/LeetCode/commit/6d8f6b7f6197e855769f507cca9ddcd88f241a96)| 
