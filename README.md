@@ -107,4 +107,6 @@
 |116|填充每个节点的下一个右侧节点指针|[javascript](https://github.com/DUSIKAI/LeetCode/commit/a7979947fd13b29644e77e9eab97727bf07ece1c)|
 |117|填充每个节点的下一个右侧节点指针 II|[javascript](https://github.com/DUSIKAI/LeetCode/commit/365581948e8ddf8808b4d424472683c39bf7c796)|
 |118|杨辉三角|[javascript](https://github.com/DUSIKAI/LeetCode/commit/7b26dcb8480517edda1885b77a0c07a9a7d1c6bc)|
-|面试题59|队列的最大值|[javascript](https://github.com/DUSIKAI/LeetCode/commit/550f405cd9aebe5ae3955d1d0ba83a25b90577ab)|
+|面试题1|队列的最大值|[javascript](https://github.com/DUSIKAI/LeetCode/commit/8c59ae5a490c95406482dacb770a145be6722862)|
+|面试题2|买卖股票的最佳时机|[javascript](https://github.com/DUSIKAI/LeetCode/commit/551a2b02b333115e51e6903f4eea370e50233c36)|
+|面试题3|二叉树的直径|[javascript](https://github.com/DUSIKAI/LeetCode/commit/de3c8dd0186d18dcef6d93855bf7e5afdcd0d29c)|
