@@ -110,3 +110,4 @@
 |面试题1|队列的最大值|[javascript](https://github.com/DUSIKAI/LeetCode/commit/8c59ae5a490c95406482dacb770a145be6722862)|
 |面试题2|买卖股票的最佳时机|[javascript](https://github.com/DUSIKAI/LeetCode/commit/551a2b02b333115e51e6903f4eea370e50233c36)|
 |面试题3|二叉树的直径|[javascript](https://github.com/DUSIKAI/LeetCode/commit/de3c8dd0186d18dcef6d93855bf7e5afdcd0d29c)|
+|面试题4|将数组分成和相等的三个部分|[javascript](https://github.com/DUSIKAI/LeetCode/commit/85db5d53d1f5691c21c70edf837f5799e936a07b)|
