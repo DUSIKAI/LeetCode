@@ -118,3 +118,4 @@
 |面试题9|矩形重叠|[javascript](https://github.com/DUSIKAI/LeetCode/commit/542510e4245d88af0a83233d1c16425fece46579)|
 |面试题10|最长回文串|[javascript](https://github.com/DUSIKAI/LeetCode/commit/80fd8ada62738a3488483e811999e629e577411a)|
 |面试题11|最小的k个数|[javascript](https://github.com/DUSIKAI/LeetCode/commit/a0717acdf22320555fb5a03d26ba5dc8d2037990)|
+|面试题12|水壶问题|[javascript](https://github.com/DUSIKAI/LeetCode/commit/446e5b3989d675cd224850a12115e77d52545d1e)|
