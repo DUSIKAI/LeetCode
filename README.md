@@ -119,3 +119,4 @@
 |面试题10|最长回文串|[javascript](https://github.com/DUSIKAI/LeetCode/commit/80fd8ada62738a3488483e811999e629e577411a)|
 |面试题11|最小的k个数|[javascript](https://github.com/DUSIKAI/LeetCode/commit/a0717acdf22320555fb5a03d26ba5dc8d2037990)|
 |面试题12|水壶问题|[javascript](https://github.com/DUSIKAI/LeetCode/commit/446e5b3989d675cd224850a12115e77d52545d1e)|
+|面试题13|使数组唯一的最小增量|[javascript](https://github.com/DUSIKAI/LeetCode/commit/66b038edcdea58479cb5a961735bcfd29ee51827)|
